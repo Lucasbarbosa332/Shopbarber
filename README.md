@@ -1,6 +1,7 @@
 # Shopbarber
+Uma Landing page de Barbearia 
 
-## Uma Landing page de Barbearia 
+# Contexto 📝
 
 A landing page da barbearia foi desenvolvida utilizando HTML e CSS, com foco em um design responsivo e interativo, proporcionando uma navegação fluida tanto em desktops quanto em dispositivos móveis. A estrutura da página é intuitiva e fácil de navegar, com seções bem organizadas para apresentar todas as informações essenciais de forma clara.
 
