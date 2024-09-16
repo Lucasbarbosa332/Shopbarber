@@ -14,7 +14,7 @@ No geral, a landing page combina funcionalidade e estética, entregando uma solu
 
 
 
-<img width=100% src=""></img>
+<img width=100% src="https://github.com/Lucasbarbosa332/Shopbarber/blob/main/barber.png"></img>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
